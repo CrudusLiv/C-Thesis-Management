@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\bin\Debug\DIP101 Assignment.exe.config
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\bin\Debug\DIP101 Assignment.exe
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101 Assignment.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101_Assignment.BorrowThesis.resources
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101_Assignment.Home.resources
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101_Assignment.Login.resources
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101_Assignment.Properties.Resources.resources
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101_Assignment.RegStudent.resources
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101_Assignment.RegThesis.resources
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101_Assignment.ReturnThesis.resources
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101 Assignment.csproj.GenerateResource.cache
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101 Assignment.exe
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\obj\Debug\DIP101 Assignment.pdb
+C:\Users\user\Desktop\101 Assignment\hello\DIP101 Assignment\bin\Debug\DIP101 Assignment.pdb
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\bin\Debug\DIP101 Assignment.exe.config
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\bin\Debug\DIP101 Assignment.exe
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\bin\Debug\DIP101 Assignment.pdb
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101 Assignment.csproj.AssemblyReference.cache
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101_Assignment.BorrowThesis.resources
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101_Assignment.Home.resources
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101_Assignment.Login.resources
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101_Assignment.Properties.Resources.resources
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101_Assignment.RegStudent.resources
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101_Assignment.RegThesis.resources
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101_Assignment.ReturnThesis.resources
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101 Assignment.csproj.GenerateResource.cache
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101 Assignment.exe
+C:\Users\huanqi\Downloads\DIP101 Assignment version2\DIP101 Assignment\obj\Debug\DIP101 Assignment.pdb
